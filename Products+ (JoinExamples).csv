@@ -1,0 +1,275 @@
+﻿Address,City,Cust First Name,Cust Full Name,Cust Last Name,CustNum (Customers),Cust Num,Date of Purchase,Number of Records,Order Num,Phone,Price,ProductCategory,Product ID,ProductName,Quantity,SKU,State,ZIP Code
+22 Superior Way,Boston,Graham,Graham Frederick,Frederick,77,77,01/01/17,1,1,(707) 474-5854,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Massachusetts,02203
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,01/01/17,1,2,(394) 444-6027,13.95,Bottle,B0001,Lemon (bottle),2,B0001,California,92153
+99 Sage Street,Reno,Nolan,Nolan Slater,Slater,5,5,05/01/17,1,3,(540) 487-5928,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Nevada,89505
+561 Basil Court,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,15/01/17,1,4,(261) 759-5806,13.95,Bottle,B0001,Lemon (bottle),1,B0001,North Carolina,27404
+75 Erie Terrace,Dayton,Medge,Medge Ratliff,Ratliff,7,7,17/01/17,1,5,(358) 751-8227,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Ohio,45454
+556 Lakewood Park,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,18/01/17,1,6,(901) 166-8355,82.95,Case,C0002,Mandarin (case),1,C0002,North Dakota,58505
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,19/01/17,1,7,(544) 534-1984,13.95,Bottle,B0004,Thyme (bottle),4,B0004,Virginia,23520
+400 Summit Lane,Brooklyn,Theodore,Theodore Brock,Brock,95,95,20/01/17,1,8,(662) 476-0315,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,New York,11210
+9776 Beilfuss Parkway,Cleveland,Karly,Karly Hardin,Hardin,64,64,21/01/17,1,9,(106) 281-7513,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Ohio,44118
+55617 Straubel Drive,Philadelphia,Eagan,Eagan Bray,Bray,97,97,21/01/17,1,10,(529) 738-3373,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Pennsylvania,19146
+874 Leroy Hill,Santa Rosa,Oleg,Oleg Merritt,Merritt,51,51,22/01/17,1,11,(513) 912-4721,82.95,Case,C0007,Assortment (case),2,C0007,California,95405
+605 Bunting Road,White Plains,Roth,Roth Black,Black,45,45,24/01/17,1,12,(330) 983-4433,13.95,Bottle,B0001,Lemon (bottle),2,B0001,New York,10606
+7189 Pankratz Point,Dayton,Jaime,Jaime Craig,Craig,66,66,04/02/17,1,13,(375) 915-2089,82.95,Case,C0001,Lemon (case),2,C0001,Ohio,45454
+33837 Independence Place,Oklahoma City,Jenna,Jenna Hendricks,Hendricks,84,84,06/02/17,1,14,(840) 746-9696,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,Oklahoma,73124
+58 Melvin Pass,Huntsville,Josiah,Josiah Wagner,Wagner,62,62,06/02/17,1,15,(700) 742-7671,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Alabama,35815
+5 Melvin Street,New York City,Nasim,Nasim Sheppard,Sheppard,80,80,08/02/17,1,16,(930) 295-6752,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,New York,10039
+839 Pepper Wood Street,El Paso,Leslie,Leslie Pace,Pace,79,79,14/02/17,1,17,(623) 686-1821,13.95,Bottle,B0004,Thyme (bottle),4,B0004,Texas,88563
+423 Kenwood Park,Temple,Shay,Shay Davidson,Davidson,60,60,16/02/17,1,18,(934) 777-4129,13.95,Bottle,B0004,Thyme (bottle),2,B0004,Texas,76505
+229 Golden Leaf Road,Gadsden,Jerry,Jerry Gill,Gill,27,27,18/02/17,1,19,(491) 955-1047,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Alabama,35905
+1 Springview Circle,Helena,Kenneth,Kenneth Potts,Potts,57,57,23/02/17,1,20,(976) 544-1168,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Montana,59623
+25 Green Plaza,Davenport,Quail,Quail Vance,Vance,39,39,24/02/17,1,21,(229) 484-5107,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Iowa,52804
+419 Tennyson Court,San Luis Obispo,Melyssa,Melyssa Gates,Gates,38,38,25/02/17,1,22,(263) 976-2589,13.95,Bottle,B0006,Basil (bottle),1,B0006,California,93407
+9 Roth Place,Dayton,Shafira,Shafira Bennett,Bennett,72,72,27/02/17,1,23,(279) 911-0843,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Ohio,45454
+100 Bunting Drive,Washington,Quentin,Quentin Marshall,Marshall,100,100,06/03/17,1,24,(203) 755-9348,82.95,Case,C0007,Assortment (case),2,C0007,District of Columbia,20557
+6755 Burrows Center,Columbus,Rose,Rose Holcomb,Holcomb,40,40,07/03/17,1,25,(129) 823-5800,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Georgia,31914
+2 Nevada Junction,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,11/03/17,1,26,(708) 764-4578,13.95,Bottle,B0004,Thyme (bottle),2,B0004,Pennsylvania,15235
+2 Farragut Crossing,Anchorage,Sade,Sade Santiago,Santiago,14,14,15/03/17,1,27,(497) 492-4618,82.95,Case,C0007,Assortment (case),1,C0007,Alaska,99512
+4829 Badeau Parkway,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,16/03/17,1,28,(982) 231-7357,82.95,Case,C0001,Lemon (case),2,C0001,Tennessee,37405
+86432 Westridge Alley,Wichita,Anastasia,Anastasia Owens,Owens,43,43,16/03/17,1,29,(423) 401-3016,82.95,Case,C0007,Assortment (case),2,C0007,Kansas,67230
+87 Brentwood Park,Dallas,Brooke,Brooke Perkins,Perkins,4,4,16/03/17,1,30,(340) 732-9367,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Texas,75358
+95567 Browning Crossing,Vero Beach,Hadley,Hadley Sosa,Sosa,63,63,21/03/17,1,31,(222) 150-9436,82.95,Case,C0004,Thyme (case),3,C0004,Florida,32964
+5204 Beilfuss Place,Columbus,Shellie,Shellie Velez,Velez,22,22,28/03/17,1,32,(197) 282-8671,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,Ohio,43204
+7468 Talmadge Junction,Baltimore,Laith,Laith Jordan,Jordan,48,48,29/03/17,1,33,(868) 659-6715,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,Maryland,21275
+7271 Ramsey Way,Washington,Gray,Gray Gutierrez,Gutierrez,87,87,29/03/17,1,34,(496) 849-2265,13.95,Bottle,B0001,Lemon (bottle),2,B0001,District of Columbia,20420
+710 Old Gate Circle,Chicago,Amery,Amery Washington,Washington,34,34,01/04/17,1,35,(191) 476-0002,13.95,Bottle,B0004,Thyme (bottle),4,B0004,Illinois,60641
+8 Delaware Hill,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,01/04/17,1,36,(892) 616-0264,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,California,92844
+87 Brentwood Park,Dallas,Brooke,Brooke Perkins,Perkins,4,4,02/04/17,1,37,(340) 732-9367,82.95,Case,C0007,Assortment (case),1,C0007,Texas,75358
+99 Hanson Way,Richmond,Kaden,Kaden Sharpe,Sharpe,71,71,05/04/17,1,38,(246) 987-2818,82.95,Case,C0002,Mandarin (case),1,C0002,Virginia,23242
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,08/04/17,1,39,(394) 444-6027,13.95,Bottle,B0001,Lemon (bottle),1,B0001,California,92153
+7746 Mitchell Point,New Haven,Merrill,Merrill Freeman,Freeman,12,12,09/04/17,1,40,(838) 734-1768,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Connecticut,06510
+22577 Starling Lane,Chicago,Adena,Adena Jenkins,Jenkins,55,55,13/04/17,1,41,(342) 731-9079,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Illinois,60604
+4276 Hallows Terrace,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,16/04/17,1,42,(309) 329-9140,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Texas,78260
+1876 Petterle Court,Brea,Hedy,Hedy Vang,Vang,86,86,17/04/17,1,43,(383) 134-3234,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,California,92822
+22278 Waubesa Road,Birmingham,Chastity,Chastity Charles,Charles,78,78,18/04/17,1,44,(186) 176-2590,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,Alabama,35225
+718 Lakewood Parkway,Appleton,Kamal,Kamal Newton,Newton,99,99,19/04/17,1,45,(704) 685-9968,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Wisconsin,54915
+9843 Graceland Point,Lansing,Dorian,Dorian Dale,Dale,21,21,23/04/17,1,46,(311) 929-6026,13.95,Bottle,B0006,Basil (bottle),3,B0006,Michigan,48930
+33837 Independence Place,Oklahoma City,Jenna,Jenna Hendricks,Hendricks,84,84,30/04/17,1,47,(840) 746-9696,82.95,Case,C0004,Thyme (case),1,C0004,Oklahoma,73124
+40 Lighthouse Bay Circle,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,01/05/17,1,48,(992) 329-4925,82.95,Case,C0001,Lemon (case),3,C0001,Florida,33731
+58034 Nelson Street,Washington,Philip,Philip Ware,Ware,29,29,06/05/17,1,49,(615) 720-3672,13.95,Bottle,B0001,Lemon (bottle),3,B0001,District of Columbia,20036
+8 Gerald Point,Orlando,Malik,Malik Faulkner,Faulkner,16,16,14/05/17,1,50,(186) 520-2519,82.95,Case,C0007,Assortment (case),3,C0007,Florida,32858
+30 Onsgard Crossing,Los Angeles,Serena,Serena Malone,Malone,96,96,15/05/17,1,51,(137) 440-1643,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,California,90040
+4276 Hallows Terrace,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,16/05/17,1,52,(309) 329-9140,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,Texas,78260
+556 Lakewood Park,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,16/05/17,1,53,(901) 166-8355,13.95,Bottle,B0001,Lemon (bottle),2,B0001,North Dakota,58505
+30 Gulseth Junction,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,17/05/17,1,54,(146) 146-9356,82.95,Case,C0001,Lemon (case),3,C0001,California,94154
+609 Everett Avenue,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,19/05/17,1,55,(324) 686-7614,13.95,Bottle,B0006,Basil (bottle),4,B0006,Iowa,50330
+423 Kenwood Park,Temple,Shay,Shay Davidson,Davidson,60,60,24/05/17,1,56,(934) 777-4129,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Texas,76505
+4829 Badeau Parkway,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,25/05/17,1,57,(982) 231-7357,82.95,Case,C0003,Rosemary (case),1,C0003,Tennessee,37405
+86073 Sloan Way,Pueblo,Sasha,Sasha King,King,56,56,30/05/17,1,58,(733) 104-5058,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Colorado,81015
+52 Sachtjen Avenue,Tampa,Calvin,Calvin Henry,Henry,46,46,06/06/17,1,59,(327) 821-0113,82.95,Case,C0003,Rosemary (case),1,C0003,Florida,33661
+32174 Ridge Oak Plaza,San Francisco,Mona,Mona Matthews,Matthews,83,83,07/06/17,1,60,(723) 808-1834,13.95,Bottle,B0001,Lemon (bottle),3,B0001,California,94177
+39464 Debra Lane,Young America,Nash,Nash Vasquez,Vasquez,8,8,08/06/17,1,61,(989) 937-6199,82.95,Case,C0001,Lemon (case),1,C0001,Minnesota,55557
+2 Namekagon Trail,Trenton,Judith,Judith Leonard,Leonard,15,15,10/06/17,1,62,(549) 439-1744,82.95,Case,C0003,Rosemary (case),1,C0003,New Jersey,08619
+0864 Bluestem Center,Sacramento,Barrett,Barrett Howell,Howell,35,35,10/06/17,1,63,(538) 115-5665,13.95,Bottle,B0001,Lemon (bottle),3,B0001,California,95823
+96 Eliot Way,Fresno,Brody,Brody Love,Love,82,82,17/06/17,1,64,(360) 338-4848,13.95,Bottle,B0001,Lemon (bottle),4,B0001,California,93715
+282 Acker Terrace,Winston Salem,Cailin,Cailin Alford,Alford,88,88,19/06/17,1,65,(368) 400-8301,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,North Carolina,27157
+4829 Badeau Parkway,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,25/06/17,1,66,(982) 231-7357,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,Tennessee,37405
+1876 Petterle Court,Brea,Hedy,Hedy Vang,Vang,86,86,28/06/17,1,67,(383) 134-3234,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,California,92822
+839 Pepper Wood Street,El Paso,Leslie,Leslie Pace,Pace,79,79,01/07/17,1,68,(623) 686-1821,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Texas,88563
+88 Burning Wood Junction,Anaheim,Adara,Adara Langley,Langley,26,26,02/07/17,1,69,(696) 810-8990,13.95,Bottle,B0001,Lemon (bottle),2,B0001,California,92812
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,09/07/17,1,70,(177) 816-3420,13.95,Bottle,B0004,Thyme (bottle),4,B0004,Tennessee,38114
+39464 Debra Lane,Young America,Nash,Nash Vasquez,Vasquez,8,8,11/07/17,1,71,(989) 937-6199,82.95,Case,C0003,Rosemary (case),3,C0003,Minnesota,55557
+3409 Oriole Point,Peoria,Iliana,Iliana Hester,Hester,31,31,13/07/17,1,72,(716) 866-7734,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,Illinois,61629
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,17/07/17,1,73,(959) 194-1875,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Louisiana,70174
+5 Melvin Street,New York City,Nasim,Nasim Sheppard,Sheppard,80,80,18/07/17,1,74,(930) 295-6752,82.95,Case,C0005,Hazelnut (case),1,C0005,New York,10039
+89318 Heffernan Crossing,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,24/07/17,1,75,(721) 262-6519,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,California,93150
+2 Nevada Junction,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,24/07/17,1,76,(708) 764-4578,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Pennsylvania,15235
+22 Superior Way,Boston,Graham,Graham Frederick,Frederick,77,77,25/07/17,1,77,(707) 474-5854,82.95,Case,C0001,Lemon (case),3,C0001,Massachusetts,02203
+5733 Walton Center,Jamaica,Astra,Astra Edwards,Edwards,54,54,26/07/17,1,78,(177) 600-1729,82.95,Case,C0007,Assortment (case),3,C0007,New York,11470
+52 Sachtjen Avenue,Tampa,Calvin,Calvin Henry,Henry,46,46,27/07/17,1,79,(327) 821-0113,13.95,Bottle,B0005,Hazelnut (bottle),1,B0005,Florida,33661
+22278 Waubesa Road,Birmingham,Chastity,Chastity Charles,Charles,78,78,29/07/17,1,80,(186) 176-2590,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,Alabama,35225
+6 Carioca Crossing,Arvada,Derek,Derek Conrad,Conrad,90,90,03/08/17,1,81,(275) 477-2907,13.95,Bottle,B0006,Basil (bottle),1,B0006,Colorado,80005
+62597 Lighthouse Bay Drive,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,03/08/17,1,82,(714) 520-4254,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,Florida,33954
+795 Troy Terrace,Atlanta,Kyle,Kyle Keith,Keith,69,69,08/08/17,1,83,(578) 125-5684,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Georgia,31106
+6 Jana Park,San Antonio,Germaine,Germaine Green,Green,6,6,12/08/17,1,84,(466) 455-4160,82.95,Case,C0007,Assortment (case),1,C0007,Texas,78240
+289 Porter Crossing,Silver Spring,Lunea,Lunea Rios,Rios,36,36,23/08/17,1,85,(311) 982-5690,13.95,Bottle,B0004,Thyme (bottle),2,B0004,Maryland,20918
+2 Nevada Junction,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,25/08/17,1,86,(708) 764-4578,82.95,Case,C0007,Assortment (case),3,C0007,Pennsylvania,15235
+3627 Pine View Circle,Cleveland,Debra,Debra Finley,Finley,59,59,25/08/17,1,87,(542) 954-1230,13.95,Bottle,B0005,Hazelnut (bottle),1,B0005,Ohio,44118
+8231 Crowley Crossing,Cincinnati,Michael,Michael Rutledge,Rutledge,9,9,26/08/17,1,88,(366) 822-4574,82.95,Case,C0003,Rosemary (case),1,C0003,Ohio,45999
+100 Bunting Drive,Washington,Quentin,Quentin Marshall,Marshall,100,100,30/08/17,1,89,(203) 755-9348,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,District of Columbia,20557
+4 Manufacturers Pass,Greensboro,Kyla,Kyla Hebert,Hebert,61,61,30/08/17,1,90,(715) 654-8147,82.95,Case,C0003,Rosemary (case),2,C0003,North Carolina,27499
+3627 Pine View Circle,Cleveland,Debra,Debra Finley,Finley,59,59,31/08/17,1,91,(542) 954-1230,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Ohio,44118
+791 Cherokee Court,Merrifield,Molly,Molly Grant,Grant,65,65,02/09/17,1,92,(689) 843-0460,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Virginia,22119
+7 Cottonwood Plaza,Pensacola,Roanna,Roanna Acevedo,Acevedo,58,58,06/09/17,1,93,(868) 464-7466,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,Florida,32505
+6 Granby Drive,Topeka,Clementine,Clementine Oliver,Oliver,30,30,07/09/17,1,94,(603) 332-7827,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Kansas,66606
+55617 Straubel Drive,Philadelphia,Eagan,Eagan Bray,Bray,97,97,08/09/17,1,95,(529) 738-3373,13.95,Bottle,B0006,Basil (bottle),2,B0006,Pennsylvania,19146
+181 Packers Way,Boston,Rae,Rae Hawkins,Hawkins,13,13,13/09/17,1,96,(484) 158-4493,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,Massachusetts,02216
+318 Park Meadow Hill,San Antonio,Melinda,Melinda Price,Price,91,91,16/09/17,1,97,(748) 701-8010,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Texas,78285
+3849 Northport Parkway,Appleton,Ronan,Ronan Mendez,Mendez,93,93,17/09/17,1,98,(302) 847-0643,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Wisconsin,54915
+5204 Beilfuss Place,Columbus,Shellie,Shellie Velez,Velez,22,22,28/09/17,1,99,(197) 282-8671,82.95,Case,C0001,Lemon (case),3,C0001,Ohio,43204
+400 Summit Lane,Brooklyn,Theodore,Theodore Brock,Brock,95,95,28/09/17,1,100,(662) 476-0315,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,New York,11210
+78 Summer Ridge Alley,Duluth,Lucas,Lucas Trevino,Trevino,20,20,29/09/17,1,101,(176) 773-9482,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,Minnesota,55805
+92 Northfield Terrace,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,01/10/17,1,102,(653) 854-3876,82.95,Case,C0007,Assortment (case),1,C0007,Kentucky,40287
+30 Gulseth Junction,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,03/10/17,1,103,(146) 146-9356,13.95,Bottle,B0001,Lemon (bottle),2,B0001,California,94154
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,04/10/17,1,104,(394) 444-6027,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,California,92153
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,05/10/17,1,105,(544) 534-1984,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Virginia,23520
+102 Fallview Terrace,Minneapolis,Chester,Chester Best,Best,70,70,08/10/17,1,106,(608) 587-5791,13.95,Bottle,B0006,Basil (bottle),1,B0006,Minnesota,55441
+92483 Doe Crossing Drive,Lansing,Guy,Guy Ochoa,Ochoa,10,10,10/10/17,1,107,(720) 242-4596,82.95,Case,C0004,Thyme (case),1,C0004,Michigan,48956
+207 Bunting Street,Sioux City,Dustin,Dustin Daugherty,Daugherty,68,68,12/10/17,1,108,(951) 720-1227,82.95,Case,C0007,Assortment (case),1,C0007,Iowa,51105
+2 Hovde Plaza,Saint Paul,Indira,Indira Odom,Odom,75,75,12/10/17,1,109,(714) 947-5101,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Minnesota,55108
+992 Haas Avenue,San Diego,Rhona,Rhona Stanley,Stanley,18,18,13/10/17,1,110,(237) 294-5071,82.95,Case,C0001,Lemon (case),3,C0001,California,92186
+6625 Lukken Circle,Brooklyn,Amena,Amena Petersen,Petersen,19,19,17/10/17,1,111,(383) 554-7219,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,New York,11205
+1 Springview Circle,Helena,Kenneth,Kenneth Potts,Potts,57,57,18/10/17,1,112,(976) 544-1168,13.95,Bottle,B0006,Basil (bottle),1,B0006,Montana,59623
+3149 Kinsman Court,Winston Salem,Yoko,Yoko Travis,Travis,81,81,18/10/17,1,113,(818) 864-3843,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,North Carolina,27116
+2 Rockefeller Avenue,Waco,Hunter,Hunter Newton,Newton,3,3,18/10/17,1,114,(831) 996-1240,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Texas,76796
+6755 Burrows Center,Columbus,Rose,Rose Holcomb,Holcomb,40,40,18/10/17,1,115,(129) 823-5800,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Georgia,31914
+318 Park Meadow Hill,San Antonio,Melinda,Melinda Price,Price,91,91,19/10/17,1,116,(748) 701-8010,13.95,Bottle,B0006,Basil (bottle),1,B0006,Texas,78285
+4276 Hallows Terrace,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,19/10/17,1,117,(309) 329-9140,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Texas,78260
+22278 Waubesa Road,Birmingham,Chastity,Chastity Charles,Charles,78,78,21/10/17,1,118,(186) 176-2590,82.95,Case,C0001,Lemon (case),3,C0001,Alabama,35225
+52509 Almo Lane,Raleigh,Savannah,Savannah Conner,Conner,76,76,21/10/17,1,119,(361) 128-7285,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,North Carolina,27658
+91955 Mosinee Parkway,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,24/10/17,1,120,(113) 724-9255,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Indiana,46278
+22278 Waubesa Road,Birmingham,Chastity,Chastity Charles,Charles,78,78,28/10/17,1,121,(186) 176-2590,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Alabama,35225
+62 Karstens Junction,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,02/11/17,1,122,(838) 282-2276,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Oklahoma,74141
+62 Warner Place,Washington,Raja,Raja Wells,Wells,25,25,09/11/17,1,123,(244) 178-1821,13.95,Bottle,B0001,Lemon (bottle),4,B0001,District of Columbia,20525
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,11/11/17,1,124,(177) 816-3420,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Tennessee,38114
+181 Packers Way,Boston,Rae,Rae Hawkins,Hawkins,13,13,12/11/17,1,125,(484) 158-4493,82.95,Case,C0002,Mandarin (case),2,C0002,Massachusetts,02216
+99 Sage Street,Reno,Nolan,Nolan Slater,Slater,5,5,13/11/17,1,126,(540) 487-5928,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Nevada,89505
+823 Glacier Hill Point,San Bernardino,Zena,Zena Washington,Washington,73,73,17/11/17,1,127,(921) 805-5150,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,California,92415
+52 Sachtjen Avenue,Tampa,Calvin,Calvin Henry,Henry,46,46,19/11/17,1,128,(327) 821-0113,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,Florida,33661
+8117 Straubel Plaza,Jamaica,Rebekah,Rebekah Nelson,Nelson,92,92,26/11/17,1,129,(447) 121-6473,13.95,Bottle,B0001,Lemon (bottle),4,B0001,New York,11480
+6 Granby Drive,Topeka,Clementine,Clementine Oliver,Oliver,30,30,29/11/17,1,130,(603) 332-7827,82.95,Case,C0003,Rosemary (case),2,C0003,Kansas,66606
+791 Cherokee Court,Merrifield,Molly,Molly Grant,Grant,65,65,04/12/17,1,131,(689) 843-0460,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Virginia,22119
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,11/12/17,1,132,(544) 534-1984,82.95,Case,C0007,Assortment (case),1,C0007,Virginia,23520
+62 Karstens Junction,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,11/12/17,1,133,(838) 282-2276,82.95,Case,C0004,Thyme (case),1,C0004,Oklahoma,74141
+52 Sachtjen Avenue,Tampa,Calvin,Calvin Henry,Henry,46,46,11/12/17,1,134,(327) 821-0113,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Florida,33661
+40 Lighthouse Bay Circle,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,16/12/17,1,135,(992) 329-4925,13.95,Bottle,B0004,Thyme (bottle),1,B0004,Florida,33731
+24812 Cordelia Trail,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,19/12/17,1,136,(722) 576-0563,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Texas,78475
+907 Briar Crest Terrace,Santa Barbara,Erasmus,Erasmus Neal,Neal,89,89,25/12/17,1,137,(774) 548-5638,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,California,93150
+78 Summer Ridge Alley,Duluth,Lucas,Lucas Trevino,Trevino,20,20,02/01/18,1,138,(176) 773-9482,13.95,Bottle,B0004,Thyme (bottle),1,B0004,Minnesota,55805
+823 Glacier Hill Point,San Bernardino,Zena,Zena Washington,Washington,73,73,05/01/18,1,139,(921) 805-5150,82.95,Case,C0001,Lemon (case),1,C0001,California,92415
+96 Eliot Way,Fresno,Brody,Brody Love,Love,82,82,11/01/18,1,140,(360) 338-4848,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,California,93715
+62597 Lighthouse Bay Drive,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,12/01/18,1,141,(714) 520-4254,13.95,Bottle,B0005,Hazelnut (bottle),1,B0005,Florida,33954
+791 Cherokee Court,Merrifield,Molly,Molly Grant,Grant,65,65,15/01/18,1,142,(689) 843-0460,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Virginia,22119
+7746 Mitchell Point,New Haven,Merrill,Merrill Freeman,Freeman,12,12,16/01/18,1,143,(838) 734-1768,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,Connecticut,06510
+25 Green Plaza,Davenport,Quail,Quail Vance,Vance,39,39,19/01/18,1,144,(229) 484-5107,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Iowa,52804
+9843 Graceland Point,Lansing,Dorian,Dorian Dale,Dale,21,21,26/01/18,1,145,(311) 929-6026,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Michigan,48930
+30 Onsgard Crossing,Los Angeles,Serena,Serena Malone,Malone,96,96,26/01/18,1,146,(137) 440-1643,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,California,90040
+91955 Mosinee Parkway,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,26/01/18,1,147,(113) 724-9255,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Indiana,46278
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,08/02/18,1,148,(959) 194-1875,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,Louisiana,70174
+289 Porter Crossing,Silver Spring,Lunea,Lunea Rios,Rios,36,36,09/02/18,1,149,(311) 982-5690,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Maryland,20918
+62 Warner Place,Washington,Raja,Raja Wells,Wells,25,25,10/02/18,1,150,(244) 178-1821,82.95,Case,C0007,Assortment (case),1,C0007,District of Columbia,20525
+62 Karstens Junction,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,12/02/18,1,151,(838) 282-2276,13.95,Bottle,B0006,Basil (bottle),4,B0006,Oklahoma,74141
+24812 Cordelia Trail,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,14/02/18,1,152,(722) 576-0563,82.95,Case,C0002,Mandarin (case),1,C0002,Texas,78475
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,22/02/18,1,153,(177) 816-3420,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Tennessee,38114
+423 Kenwood Park,Temple,Shay,Shay Davidson,Davidson,60,60,22/02/18,1,154,(934) 777-4129,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Texas,76505
+823 Glacier Hill Point,San Bernardino,Zena,Zena Washington,Washington,73,73,22/02/18,1,155,(921) 805-5150,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,California,92415
+3849 Northport Parkway,Appleton,Ronan,Ronan Mendez,Mendez,93,93,23/02/18,1,156,(302) 847-0643,13.95,Bottle,B0004,Thyme (bottle),3,B0004,Wisconsin,54915
+62 Karstens Junction,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,23/02/18,1,157,(838) 282-2276,82.95,Case,C0007,Assortment (case),1,C0007,Oklahoma,74141
+791 Cherokee Court,Merrifield,Molly,Molly Grant,Grant,65,65,24/02/18,1,158,(689) 843-0460,82.95,Case,C0001,Lemon (case),3,C0001,Virginia,22119
+55617 Straubel Drive,Philadelphia,Eagan,Eagan Bray,Bray,97,97,11/03/18,1,159,(529) 738-3373,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,Pennsylvania,19146
+791 Cherokee Court,Merrifield,Molly,Molly Grant,Grant,65,65,11/03/18,1,160,(689) 843-0460,82.95,Case,C0002,Mandarin (case),3,C0002,Virginia,22119
+710 Old Gate Circle,Chicago,Amery,Amery Washington,Washington,34,34,12/03/18,1,161,(191) 476-0002,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Illinois,60641
+92483 Doe Crossing Drive,Lansing,Guy,Guy Ochoa,Ochoa,10,10,14/03/18,1,162,(720) 242-4596,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Michigan,48956
+6 Carioca Crossing,Arvada,Derek,Derek Conrad,Conrad,90,90,17/03/18,1,163,(275) 477-2907,82.95,Case,C0003,Rosemary (case),2,C0003,Colorado,80005
+229 Golden Leaf Road,Gadsden,Jerry,Jerry Gill,Gill,27,27,17/03/18,1,164,(491) 955-1047,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Alabama,35905
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,18/03/18,1,165,(177) 816-3420,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Tennessee,38114
+400 Summit Lane,Brooklyn,Theodore,Theodore Brock,Brock,95,95,22/03/18,1,166,(662) 476-0315,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,New York,11210
+3149 Kinsman Court,Winston Salem,Yoko,Yoko Travis,Travis,81,81,23/03/18,1,167,(818) 864-3843,82.95,Case,C0002,Mandarin (case),2,C0002,North Carolina,27116
+24812 Cordelia Trail,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,23/03/18,1,168,(722) 576-0563,82.95,Case,C0002,Mandarin (case),2,C0002,Texas,78475
+92 Northfield Terrace,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,27/03/18,1,169,(653) 854-3876,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Kentucky,40287
+556 Lakewood Park,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,03/04/18,1,170,(901) 166-8355,82.95,Case,C0004,Thyme (case),3,C0004,North Dakota,58505
+6 Granby Drive,Topeka,Clementine,Clementine Oliver,Oliver,30,30,04/04/18,1,171,(603) 332-7827,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,Kansas,66606
+3849 Northport Parkway,Appleton,Ronan,Ronan Mendez,Mendez,93,93,06/04/18,1,172,(302) 847-0643,13.95,Bottle,B0006,Basil (bottle),4,B0006,Wisconsin,54915
+5733 Walton Center,Jamaica,Astra,Astra Edwards,Edwards,54,54,09/04/18,1,173,(177) 600-1729,82.95,Case,C0001,Lemon (case),3,C0001,New York,11470
+92 Northfield Terrace,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,10/04/18,1,174,(653) 854-3876,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Kentucky,40287
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,14/04/18,1,175,(959) 194-1875,82.95,Case,C0007,Assortment (case),1,C0007,Louisiana,70174
+3627 Pine View Circle,Cleveland,Debra,Debra Finley,Finley,59,59,24/04/18,1,176,(542) 954-1230,82.95,Case,C0001,Lemon (case),2,C0001,Ohio,44118
+62597 Lighthouse Bay Drive,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,28/04/18,1,177,(714) 520-4254,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Florida,33954
+2 Nevada Junction,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,29/04/18,1,178,(708) 764-4578,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Pennsylvania,15235
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,02/05/18,1,179,(544) 534-1984,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,Virginia,23520
+7746 Mitchell Point,New Haven,Merrill,Merrill Freeman,Freeman,12,12,02/05/18,1,180,(838) 734-1768,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Connecticut,06510
+3849 Northport Parkway,Appleton,Ronan,Ronan Mendez,Mendez,93,93,03/05/18,1,181,(302) 847-0643,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Wisconsin,54915
+40 Lighthouse Bay Circle,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,04/05/18,1,182,(992) 329-4925,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Florida,33731
+30 Gulseth Junction,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,05/05/18,1,183,(146) 146-9356,13.95,Bottle,B0001,Lemon (bottle),1,B0001,California,94154
+556 Lakewood Park,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,10/05/18,1,184,(901) 166-8355,82.95,Case,C0001,Lemon (case),1,C0001,North Dakota,58505
+30 Onsgard Crossing,Los Angeles,Serena,Serena Malone,Malone,96,96,11/05/18,1,185,(137) 440-1643,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,California,90040
+52 Sachtjen Avenue,Tampa,Calvin,Calvin Henry,Henry,46,46,11/05/18,1,186,(327) 821-0113,13.95,Bottle,B0004,Thyme (bottle),2,B0004,Florida,33661
+1876 Petterle Court,Brea,Hedy,Hedy Vang,Vang,86,86,12/05/18,1,187,(383) 134-3234,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,California,92822
+2 Farragut Crossing,Anchorage,Sade,Sade Santiago,Santiago,14,14,14/05/18,1,188,(497) 492-4618,13.95,Bottle,B0004,Thyme (bottle),4,B0004,Alaska,99512
+1 Springview Circle,Helena,Kenneth,Kenneth Potts,Potts,57,57,14/05/18,1,189,(976) 544-1168,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Montana,59623
+609 Everett Avenue,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,14/05/18,1,190,(324) 686-7614,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,Iowa,50330
+99 Sage Street,Reno,Nolan,Nolan Slater,Slater,5,5,19/05/18,1,191,(540) 487-5928,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Nevada,89505
+91955 Mosinee Parkway,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,19/05/18,1,192,(113) 724-9255,82.95,Case,C0002,Mandarin (case),1,C0002,Indiana,46278
+88 Burning Wood Junction,Anaheim,Adara,Adara Langley,Langley,26,26,20/05/18,1,193,(696) 810-8990,13.95,Bottle,B0006,Basil (bottle),3,B0006,California,92812
+62 Warner Place,Washington,Raja,Raja Wells,Wells,25,25,22/05/18,1,194,(244) 178-1821,13.95,Bottle,B0006,Basil (bottle),4,B0006,District of Columbia,20525
+40 Lighthouse Bay Circle,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,29/05/18,1,195,(992) 329-4925,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,Florida,33731
+2 Rockefeller Avenue,Waco,Hunter,Hunter Newton,Newton,3,3,02/06/18,1,196,(831) 996-1240,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,Texas,76796
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,05/06/18,1,197,(544) 534-1984,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Virginia,23520
+5204 Beilfuss Place,Columbus,Shellie,Shellie Velez,Velez,22,22,05/06/18,1,198,(197) 282-8671,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Ohio,43204
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,09/06/18,1,199,(394) 444-6027,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,California,92153
+561 Basil Court,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,12/06/18,1,200,(261) 759-5806,13.95,Bottle,B0002,Mandarin (bottle),1,B0002,North Carolina,27404
+874 Leroy Hill,Santa Rosa,Oleg,Oleg Merritt,Merritt,51,51,13/06/18,1,201,(513) 912-4721,13.95,Bottle,B0001,Lemon (bottle),4,B0001,California,95405
+40 Lighthouse Bay Circle,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,16/06/18,1,202,(992) 329-4925,82.95,Case,C0004,Thyme (case),2,C0004,Florida,33731
+839 Pepper Wood Street,El Paso,Leslie,Leslie Pace,Pace,79,79,17/06/18,1,203,(623) 686-1821,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Texas,88563
+181 Packers Way,Boston,Rae,Rae Hawkins,Hawkins,13,13,17/06/18,1,204,(484) 158-4493,82.95,Case,C0002,Mandarin (case),1,C0002,Massachusetts,02216
+289 Porter Crossing,Silver Spring,Lunea,Lunea Rios,Rios,36,36,23/06/18,1,205,(311) 982-5690,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,Maryland,20918
+7189 Pankratz Point,Dayton,Jaime,Jaime Craig,Craig,66,66,23/06/18,1,206,(375) 915-2089,82.95,Case,C0007,Assortment (case),2,C0007,Ohio,45454
+7746 Mitchell Point,New Haven,Merrill,Merrill Freeman,Freeman,12,12,25/06/18,1,207,(838) 734-1768,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Connecticut,06510
+6755 Burrows Center,Columbus,Rose,Rose Holcomb,Holcomb,40,40,25/06/18,1,208,(129) 823-5800,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Georgia,31914
+91955 Mosinee Parkway,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,01/07/18,1,209,(113) 724-9255,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Indiana,46278
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,06/07/18,1,210,(394) 444-6027,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,California,92153
+289 Porter Crossing,Silver Spring,Lunea,Lunea Rios,Rios,36,36,11/07/18,1,211,(311) 982-5690,82.95,Case,C0006,Basil (case),3,C0006,Maryland,20918
+4276 Hallows Terrace,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,14/07/18,1,212,(309) 329-9140,82.95,Case,C0006,Basil (case),1,C0006,Texas,78260
+282 Acker Terrace,Winston Salem,Cailin,Cailin Alford,Alford,88,88,15/07/18,1,213,(368) 400-8301,13.95,Bottle,B0001,Lemon (bottle),1,B0001,North Carolina,27157
+8 Delaware Hill,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,16/07/18,1,214,(892) 616-0264,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,California,92844
+710 Old Gate Circle,Chicago,Amery,Amery Washington,Washington,34,34,17/07/18,1,215,(191) 476-0002,82.95,Case,C0007,Assortment (case),2,C0007,Illinois,60641
+92483 Doe Crossing Drive,Lansing,Guy,Guy Ochoa,Ochoa,10,10,18/07/18,1,216,(720) 242-4596,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Michigan,48956
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,23/07/18,1,217,(959) 194-1875,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Louisiana,70174
+22 Superior Way,Boston,Graham,Graham Frederick,Frederick,77,77,26/07/18,1,218,(707) 474-5854,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Massachusetts,02203
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,28/07/18,1,219,(959) 194-1875,13.95,Bottle,B0006,Basil (bottle),3,B0006,Louisiana,70174
+62597 Lighthouse Bay Drive,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,29/07/18,1,220,(714) 520-4254,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Florida,33954
+609 Everett Avenue,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,30/07/18,1,221,(324) 686-7614,13.95,Bottle,B0004,Thyme (bottle),3,B0004,Iowa,50330
+6 Carioca Crossing,Arvada,Derek,Derek Conrad,Conrad,90,90,31/07/18,1,222,(275) 477-2907,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Colorado,80005
+710 Old Gate Circle,Chicago,Amery,Amery Washington,Washington,34,34,31/07/18,1,223,(191) 476-0002,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,Illinois,60641
+25 Green Plaza,Davenport,Quail,Quail Vance,Vance,39,39,01/08/18,1,224,(229) 484-5107,82.95,Case,C0005,Hazelnut (case),1,C0005,Iowa,52804
+89318 Heffernan Crossing,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,02/08/18,1,225,(721) 262-6519,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,California,93150
+8 Gerald Point,Orlando,Malik,Malik Faulkner,Faulkner,16,16,03/08/18,1,226,(186) 520-2519,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Florida,32858
+88 Burning Wood Junction,Anaheim,Adara,Adara Langley,Langley,26,26,05/08/18,1,227,(696) 810-8990,13.95,Bottle,B0001,Lemon (bottle),2,B0001,California,92812
+88 Burning Wood Junction,Anaheim,Adara,Adara Langley,Langley,26,26,06/08/18,1,228,(696) 810-8990,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,California,92812
+419 Tennyson Court,San Luis Obispo,Melyssa,Melyssa Gates,Gates,38,38,13/08/18,1,229,(263) 976-2589,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,California,93407
+6 Granby Drive,Topeka,Clementine,Clementine Oliver,Oliver,30,30,17/08/18,1,230,(603) 332-7827,13.95,Bottle,B0001,Lemon (bottle),2,B0001,Kansas,66606
+9776 Beilfuss Parkway,Cleveland,Karly,Karly Hardin,Hardin,64,64,21/08/18,1,231,(106) 281-7513,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,Ohio,44118
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,22/08/18,1,232,(177) 816-3420,82.95,Case,C0005,Hazelnut (case),2,C0005,Tennessee,38114
+95567 Browning Crossing,Vero Beach,Hadley,Hadley Sosa,Sosa,63,63,25/08/18,1,233,(222) 150-9436,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,Florida,32964
+8 Gerald Point,Orlando,Malik,Malik Faulkner,Faulkner,16,16,29/08/18,1,234,(186) 520-2519,13.95,Bottle,B0004,Thyme (bottle),1,B0004,Florida,32858
+25 Green Plaza,Davenport,Quail,Quail Vance,Vance,39,39,30/08/18,1,235,(229) 484-5107,13.95,Bottle,B0001,Lemon (bottle),4,B0001,Iowa,52804
+602 Sommers Parkway,Norfolk,Brock,Brock Case,Case,94,94,03/09/18,1,236,(544) 534-1984,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Virginia,23520
+8 Delaware Hill,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,04/09/18,1,237,(892) 616-0264,13.95,Bottle,B0001,Lemon (bottle),3,B0001,California,92844
+62 Warner Place,Washington,Raja,Raja Wells,Wells,25,25,12/09/18,1,238,(244) 178-1821,13.95,Bottle,B0004,Thyme (bottle),2,B0004,District of Columbia,20525
+62597 Lighthouse Bay Drive,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,13/09/18,1,239,(714) 520-4254,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Florida,33954
+3627 Pine View Circle,Cleveland,Debra,Debra Finley,Finley,59,59,17/09/18,1,240,(542) 954-1230,82.95,Case,C0006,Basil (case),1,C0006,Ohio,44118
+3409 Oriole Point,Peoria,Iliana,Iliana Hester,Hester,31,31,18/09/18,1,241,(716) 866-7734,13.95,Bottle,B0003,Rosemary (bottle),1,B0003,Illinois,61629
+2 Hovde Plaza,Saint Paul,Indira,Indira Odom,Odom,75,75,26/09/18,1,242,(714) 947-5101,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,Minnesota,55108
+62 Karstens Junction,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,28/09/18,1,243,(838) 282-2276,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Oklahoma,74141
+87 Brentwood Park,Dallas,Brooke,Brooke Perkins,Perkins,4,4,02/10/18,1,244,(340) 732-9367,13.95,Bottle,B0001,Lemon (bottle),1,B0001,Texas,75358
+561 Basil Court,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,03/10/18,1,245,(261) 759-5806,13.95,Bottle,B0001,Lemon (bottle),2,B0001,North Carolina,27404
+2 Farragut Crossing,Anchorage,Sade,Sade Santiago,Santiago,14,14,18/10/18,1,246,(497) 492-4618,13.95,Bottle,B0003,Rosemary (bottle),3,B0003,Alaska,99512
+32174 Ridge Oak Plaza,San Francisco,Mona,Mona Matthews,Matthews,83,83,20/10/18,1,247,(723) 808-1834,13.95,Bottle,B0002,Mandarin (bottle),3,B0002,California,94177
+5733 Walton Center,Jamaica,Astra,Astra Edwards,Edwards,54,54,21/10/18,1,248,(177) 600-1729,13.95,Bottle,B0001,Lemon (bottle),3,B0001,New York,11470
+4829 Badeau Parkway,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,26/10/18,1,249,(982) 231-7357,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Tennessee,37405
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,28/10/18,1,250,(959) 194-1875,13.95,Bottle,B0005,Hazelnut (bottle),4,B0005,Louisiana,70174
+68316 Emmet Trail,San Diego,Jael,Jael Rice,Rice,42,42,28/10/18,1,251,(394) 444-6027,13.95,Bottle,B0001,Lemon (bottle),2,B0001,California,92153
+2 Nevada Junction,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,28/10/18,1,252,(708) 764-4578,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Pennsylvania,15235
+7189 Pankratz Point,Dayton,Jaime,Jaime Craig,Craig,66,66,01/11/18,1,253,(375) 915-2089,13.95,Bottle,B0006,Basil (bottle),4,B0006,Ohio,45454
+0864 Bluestem Center,Sacramento,Barrett,Barrett Howell,Howell,35,35,02/11/18,1,254,(538) 115-5665,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,California,95823
+4 Manufacturers Pass,Greensboro,Kyla,Kyla Hebert,Hebert,61,61,03/11/18,1,255,(715) 654-8147,13.95,Bottle,B0001,Lemon (bottle),3,B0001,North Carolina,27499
+7316 Dryden Road,Memphis,Coby,Coby Lucas,Lucas,11,11,06/11/18,1,256,(177) 816-3420,82.95,Case,C0001,Lemon (case),1,C0001,Tennessee,38114
+22 Superior Way,Boston,Graham,Graham Frederick,Frederick,77,77,08/11/18,1,257,(707) 474-5854,13.95,Bottle,B0004,Thyme (bottle),3,B0004,Massachusetts,02203
+89318 Heffernan Crossing,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,11/11/18,1,258,(721) 262-6519,13.95,Bottle,B0003,Rosemary (bottle),2,B0003,California,93150
+6502 Montana Junction,New Orleans,Arden,Arden Bennett,Bennett,28,28,15/11/18,1,259,(959) 194-1875,13.95,Bottle,B0002,Mandarin (bottle),4,B0002,Louisiana,70174
+99 Sage Street,Reno,Nolan,Nolan Slater,Slater,5,5,18/11/18,1,260,(540) 487-5928,13.95,Bottle,B0004,Thyme (bottle),3,B0004,Nevada,89505
+6625 Lukken Circle,Brooklyn,Amena,Amena Petersen,Petersen,19,19,18/11/18,1,261,(383) 554-7219,13.95,Bottle,B0002,Mandarin (bottle),2,B0002,New York,11205
+823 Glacier Hill Point,San Bernardino,Zena,Zena Washington,Washington,73,73,20/11/18,1,262,(921) 805-5150,13.95,Bottle,B0001,Lemon (bottle),4,B0001,California,92415
+22278 Waubesa Road,Birmingham,Chastity,Chastity Charles,Charles,78,78,20/11/18,1,263,(186) 176-2590,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Alabama,35225
+102 Fallview Terrace,Minneapolis,Chester,Chester Best,Best,70,70,25/11/18,1,264,(608) 587-5791,82.95,Case,C0007,Assortment (case),2,C0007,Minnesota,55441
+6 Carioca Crossing,Arvada,Derek,Derek Conrad,Conrad,90,90,26/11/18,1,265,(275) 477-2907,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Colorado,80005
+289 Porter Crossing,Silver Spring,Lunea,Lunea Rios,Rios,36,36,27/11/18,1,266,(311) 982-5690,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Maryland,20918
+6755 Burrows Center,Columbus,Rose,Rose Holcomb,Holcomb,40,40,27/11/18,1,267,(129) 823-5800,13.95,Bottle,B0001,Lemon (bottle),3,B0001,Georgia,31914
+7189 Pankratz Point,Dayton,Jaime,Jaime Craig,Craig,66,66,10/12/18,1,268,(375) 915-2089,13.95,Bottle,B0005,Hazelnut (bottle),2,B0005,Ohio,45454
+6755 Burrows Center,Columbus,Rose,Rose Holcomb,Holcomb,40,40,12/12/18,1,269,(129) 823-5800,13.95,Bottle,B0003,Rosemary (bottle),4,B0003,Georgia,31914
+7271 Ramsey Way,Washington,Gray,Gray Gutierrez,Gutierrez,87,87,16/12/18,1,270,(496) 849-2265,82.95,Case,C0003,Rosemary (case),3,C0003,District of Columbia,20420
+62 Warner Place,Washington,Raja,Raja Wells,Wells,25,25,18/12/18,1,271,(244) 178-1821,13.95,Bottle,B0005,Hazelnut (bottle),3,B0005,District of Columbia,20525
+88 Burning Wood Junction,Anaheim,Adara,Adara Langley,Langley,26,26,27/12/18,1,272,(696) 810-8990,13.95,Bottle,B0001,Lemon (bottle),1,B0001,California,92812
+4829 Badeau Parkway,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,27/12/18,1,273,(982) 231-7357,13.95,Bottle,B0004,Thyme (bottle),1,B0004,Tennessee,37405
+795 Troy Terrace,Atlanta,Kyle,Kyle Keith,Keith,69,69,29/12/18,1,274,(578) 125-5684,82.95,Case,C0001,Lemon (case),2,C0001,Georgia,31106
